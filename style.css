@@ -1,0 +1,37 @@
+.search{
+    width: 10%;
+    color: rgb(101, 238, 226);
+    border-radius: 15px;
+    border-style: solid;
+    border-color: rgb(101, 238, 226);
+    text-align: center;
+    background-color: white;
+
+
+
+}
+.plus{
+    color: white;
+    border-radius: 50%;
+    background-color: turquoise;
+    border: 1px;
+    width: 3%;
+    height: 3%;
+    text-align: center;
+    height: 3%;
+    font-size: 15px;
+
+}
+.create{
+    color: rgb(252, 247, 247);
+    background-color: blue;
+    width: 10%;
+    height: 35%;
+    box-shadow: 25px 30px 35px;
+    text-align: center;
+    
+}
+div{
+    margin: 50px;
+
+}
